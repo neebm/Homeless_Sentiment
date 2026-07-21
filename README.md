@@ -1,5 +1,5 @@
-General process: 
-1. scraped data with the keywords related to homelessness (English and French), balance of most posts and relevance (tested and rerun several times)
+General process (reddit scraping and data cleaning): 
+1. scraped data (PRAW) with the keywords related to homelessness (English and French), balance of most posts and relevance (tested and rerun several times)
 2. removed images, videos, external links  
 3. reviewed posts based on having the keywords in the post/title and labeled posts to manually review  
 4. manually review, mark those that should be included  
